@@ -3,8 +3,8 @@
   - [node](API/服务端API/frame/node.md)
 - kalix-parent-api
   - [cdi](API/服务端API/parent/cdi.md)
-  - [dataSource](API/服务端API/parent/dataSource.md)
-  - [elasticsearch](API/服务端API/parent/dataSource.md)
+  - [dataSource](API/服务端API/parent/DataSource.md)
+  - [elasticsearch](API/服务端API/parent/elasticsearch.md)
   - [fabric8](API/服务端API/parent/fabric8.md)
   - [faq](API/服务端API/parent/faq.md)
   - [jetty](API/服务端API/parent/jetty.md)
